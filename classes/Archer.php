@@ -13,7 +13,6 @@ class Archer extends Character
 
 
     public function turn($target) {
-
          // si il a une attaque en cours 
         // faire l'attaque en cours et currentAttack = ""
         /* $status = l'attaque en count_chars
